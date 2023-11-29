@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+    margin: auto;
+    font-family: 'Questrial', sans-serif;
+}
+
+.entete{
+    font-size: 30px;
+}
+
+.question{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.reponse{
+    font-size: 16px;
+    margin-top: 5px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.contenuFAQ{
+    padding-left: 70px;
+    padding-right: 70px;
+}
